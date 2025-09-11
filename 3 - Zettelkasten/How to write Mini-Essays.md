@@ -47,9 +47,11 @@ This Note is heavily inspired by a video of Odysseas[^1]. It roughly summarizes 
 
 ## Story Note
 
-- "The Story is the vehicle of the Message" [18:]
+- "The Story is the vehicle of the Message" [18:33][^1] 
 
 # References
 
 1. [How to Write a Mini-Essay](https://www.youtube.com/watch?v=eCaOSNxwCsw)
 2. [[Mini Essays-The Ultimate Learning Tool]]
+
+[^1]: 
