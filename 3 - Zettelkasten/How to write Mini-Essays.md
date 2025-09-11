@@ -26,7 +26,8 @@ Tags:
 - Is the basic for most forms of writing.
 
 #### Intro 
-- Make the Premise clear for readers or yourself.
+- Make the Premise clear for readers or yourself. Clearly tell what its about
+- Try to make it struck curiosity
 - 
 
 # References
