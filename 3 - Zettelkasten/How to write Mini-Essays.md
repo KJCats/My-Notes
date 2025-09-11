@@ -28,10 +28,10 @@ Tags:
 #### Intro 
 - Make the Premise clear for readers or yourself. Clearly tell what its about
 - Try to make it struck curiosity
-	- Maybe make a Statement: "... is ... ?"
+	- Maybe make a Statement: "... is ... !"
 	- Start with something Emotional
-	- 
-
+	- Or a Question: "Is ... really ... ?"
+	- Start in the middle
 # References
 
 [How to Write a Mini-Essay](https://www.youtube.com/watch?v=eCaOSNxwCsw)
