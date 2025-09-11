@@ -28,6 +28,10 @@ If you can or want, write into the Book. If not, write down on a seperate medium
 - Write down what you think.
 - Try out what works best!!!
 
+## Analyze 
+
+
+
 # References
 
 [# How to Analyze Books like a Renaissance Scholar](https://www.youtube.com/watch?v=r6RdMSYSQDE)
