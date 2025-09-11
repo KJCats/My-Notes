@@ -6,6 +6,14 @@ We have Socrates and Claucon talking to each other. First glance, it's clear tha
 
 ## Scenario
 
+### First informations
 
-"Imagine human beings living in an underground cave-like residence."
+"Imagine human beings living in an underground cave-like residence. Its entrance opens up to the light and reaches all along
+the cave. They have been there since their childhood, their ankles and necks chained,
+unable to move or turn their heads, forced to look ahead. The light from a fire blazing at a
+distance comes from above and behind them. Between the fire and the prisoners there is a
+raised walkway. Imagine also a low wall built along the way, similar to the screen that
+divides puppeteers from the audience and allows them to show puppets over it."
+
+
 
