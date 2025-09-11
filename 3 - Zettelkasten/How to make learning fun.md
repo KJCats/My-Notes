@@ -7,9 +7,10 @@ Tags: [[learning]]
 
 If you are bored while learning, you aren't learning effectively.
 
-## Effective Learning is always engaging
+## 2. Effective Learning is always engaging
 
+See learning like a puzzle, you have to figure out how the information link together.
 
-
+## 3. 
 # References
 [If You Don’t Enjoy Learning, You’re Doing It Wrong](https://www.youtube.com/watch?v=6U8zNlqCa6M)
