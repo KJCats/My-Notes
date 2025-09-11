@@ -1,3 +1,5 @@
+Date: 11.09.2025
+Tags: [[literature]], [[ph]]
 
 SOCRATES: At this point I will show you something about the nature of education and
 ignorance. Picture the following in your mind. Imagine human beings living in an

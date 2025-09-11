@@ -1,5 +1,5 @@
 date: 11.09.2025
-Tags: [[writing]], [[philosophy]], [[litera]]
+Tags: [[writing]], [[philosophy]], [[literature]]
 
 We have Socrates and Claucon talking to each other. First glance, it's clear that Socrates has much more dialog than Claucon. 
 
