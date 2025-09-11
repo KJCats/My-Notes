@@ -17,6 +17,10 @@ Read a few pages and answer:
 - What is the Book about? (History, Politics, ...)
 - Is it interesting or worth your attention?
 
+## Note Taking
+
+If you can or want, write into the book
+
 # References
 
 [# How to Analyze Books like a Renaissance Scholar](https://www.youtube.com/watch?v=r6RdMSYSQDE)
