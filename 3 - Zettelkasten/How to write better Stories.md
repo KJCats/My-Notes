@@ -11,6 +11,10 @@ Tags: [[writing]], [[learning]]
 
 ### Beginning (Act I)
 
+#### Inciting Accident
+
+Story ime
+
 ### The Middle (Act II)
 
 ### The End (Act III)
