@@ -32,8 +32,12 @@ If you can or want, write into the Book. If not, write down on a seperate medium
 
 Its not directly fun, but its worth it.
 
-- When you read the full book, only look at your notes.
-- 
+### Source Notes
+
+- Write down all your notes in one place .
+- Use Quotes and show where notes came from.
+
+
 
 # References
 
