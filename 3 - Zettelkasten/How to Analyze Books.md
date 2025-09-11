@@ -19,12 +19,13 @@ Read a few pages and answer:
 
 ## Note Taking
 
-If you can or want, write into the Book. If not, write down on a sepperate medium.
+If you can or want, write into the Book. If not, write down on a seperate medium.
 
 - Read actively!
 - Less is more!
 - Highlight only what is important. "If everything is highlighted, nothing is"
 - Write down why it is highlighted. 
+
 
 # References
 
