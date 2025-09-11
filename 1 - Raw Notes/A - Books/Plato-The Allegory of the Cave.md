@@ -1,4 +1,12 @@
-SOCRATES: At this point I will show you something about the nature of education and ignorance. Picture the following in your mind. Imagine human beings living in an underground cave-like residence. Its entrance opens up to the light and reaches all along the cave. They have been there since their childhood, their ankles and necks chained, unable to move or turn their heads, forced to look ahead. The light from a fire blazing at a distance comes from above and behind them. Between the fire and the prisoners there is a raised walkway. Imagine also a low wall built along the way, similar to the screen that divides puppeteers from the audience and allows them to show puppets over it. 
+
+SOCRATES: At this point I will show you something about the nature of education and
+ignorance. Picture the following in your mind. Imagine human beings living in an
+underground cave-like residence. Its entrance opens up to the light and reaches all along
+the cave. They have been there since their childhood, their ankles and necks chained,
+unable to move or turn their heads, forced to look ahead. The light from a fire blazing at a
+distance comes from above and behind them. Between the fire and the prisoners there is a
+raised walkway. Imagine also a low wall built along the way, similar to the screen that
+divides puppeteers from the audience and allows them to show puppets over it.
 
 GLAUCON: I picture the scene. 
 
@@ -133,8 +141,14 @@ SOCRATES: See, Glaucon, we will not do wrong by those lovers of wisdom among us 
 
 GLAUCON: Quite so. 
 
-SOCRATES: What do you think, then? Upon hearing this, will our nurslings refuse to obey us and will they remain unwilling to take part in the daily labors of the state, taking their turns, while spending most of their time with one another without getting their hands dirty? GLAUCON: Impossible. For we will ask something fair of the people who have a sense of fairness. It is most certain that every one of them will feel obligated to take power, which is the opposite of what is the case with rulers of currently existing states. 
+SOCRATES: What do you think, then? Upon hearing this, will our nurslings refuse to obey us and will they remain unwilling to take part in the daily labors of the state, taking their turns, while spending most of their time with one another without getting their hands dirty? 
 
-SOCRATES: So this is how things stand, my friend. If you will design a life for intended rulers that is better than the life of a mere ruler, you will be able to have a well-managed state. For only in such a state will those rule who are truly rich, not in gold but in virtue and wisdom, the sort of things that a truly blessed person should be rich in. However, if those who crave only after their own private advantage take on the administration of public affairs, thinking that this is how they grab at the greatest good, the state will never be managed well. A struggle for power will result, and this internal domestic war will destroy both themselves and the rest of the state. GLAUCON: Most true. 
+GLAUCON: Impossible. For we will ask something fair of the people who have a sense of fairness. It is most certain that every one of them will feel obligated to take power, which is the opposite of what is the case with rulers of currently existing states. 
 
-SOCRATES: The life that embodies the true love of wisdom, then, is the only life that looks down upon political power. Or can you think of any other? GLAUCON: By Zeus, I cannot.
+SOCRATES: So this is how things stand, my friend. If you will design a life for intended rulers that is better than the life of a mere ruler, you will be able to have a well-managed state. For only in such a state will those rule who are truly rich, not in gold but in virtue and wisdom, the sort of things that a truly blessed person should be rich in. However, if those who crave only after their own private advantage take on the administration of public affairs, thinking that this is how they grab at the greatest good, the state will never be managed well. A struggle for power will result, and this internal domestic war will destroy both themselves and the rest of the state. 
+
+GLAUCON: Most true. 
+
+SOCRATES: The life that embodies the true love of wisdom, then, is the only life that looks down upon political power. Or can you think of any other? 
+
+GLAUCON: By Zeus, I cannot.
