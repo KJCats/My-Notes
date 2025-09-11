@@ -39,6 +39,9 @@ Its not directly fun, but its worth it.
 
 ### Writing the Analysis
 
+- Only work with your Notes and Quotes
+- Write short passages to your notes
+
 # References
 
 [# How to Analyze Books like a Renaissance Scholar](https://www.youtube.com/watch?v=r6RdMSYSQDE)
