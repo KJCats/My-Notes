@@ -21,7 +21,9 @@ Read a few pages and answer:
 
 If you can or want, write into the Book. If not, write down on a sepperate medium.
 
-- Read actively
+- Read actively!
+- Less is more!
+- Highlight what is important. "If everything is highligh"
 
 # References
 
