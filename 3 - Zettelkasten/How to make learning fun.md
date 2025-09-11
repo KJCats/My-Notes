@@ -28,7 +28,7 @@ Actively try to find Connections to other Information or Topics.
 
 ## 5. Learn to stay in flow
 
-Continue here: 
+Continue here: [11:47](https://youtu.be/6U8zNlqCa6M?si=L5cUOfAyAH8p74-I&t=707)
 ## 6. 
 
 ## 7.
