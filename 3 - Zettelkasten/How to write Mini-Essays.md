@@ -50,7 +50,9 @@ This Note is heavily inspired by a video of Odysseas[^1]. It roughly summarizes 
 - "The Story is the vehicle of the Message"[^1]  
 - What is the Point to tell
 
-## Half Story, Half 
+## Half Story, Half Discussion
+
+
 
 # References
 
