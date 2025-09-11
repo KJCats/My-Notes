@@ -16,6 +16,6 @@ raised walkway. Imagine also a low wall built along the way, similar to the scre
 divides puppeteers from the audience and allows them to show puppets over it."
 _Line 3-9_
 
-Humans chained in a room, forced to look at exactly one 
+Humans chained in a room, forced to look at exactly one spot. They were there since their childhood. There is a wall behind
 
 
