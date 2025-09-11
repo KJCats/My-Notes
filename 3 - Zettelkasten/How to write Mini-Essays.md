@@ -36,7 +36,9 @@ Tags:
 
 #### Body
 
-- 
+- Write down about the topic
+- Answer the starting Statement/Question
+- \: 
 
 # References
 
