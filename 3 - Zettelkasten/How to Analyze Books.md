@@ -44,7 +44,8 @@ Its not directly fun, but its worth it.
 
 ## Come back to your Analysis
 
-- Read through it again to find intr
+- Read through it again to find interesting themes and topics
+
 # References
 
 [# How to Analyze Books like a Renaissance Scholar](https://www.youtube.com/watch?v=r6RdMSYSQDE)
