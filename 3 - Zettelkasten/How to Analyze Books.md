@@ -30,7 +30,10 @@ If you can or want, write into the Book. If not, write down on a seperate medium
 
 ## Analyze 
 
+Its not directly fun, but its worth it.
 
+- When you read the full book, only look at your notes.
+- 
 
 # References
 
