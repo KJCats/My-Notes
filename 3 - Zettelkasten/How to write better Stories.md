@@ -13,7 +13,10 @@ Tags: [[writing]], [[learning]]
 
 #### Inciting Accident
 
-Story ime
+**Story Time**
+
+---
+"Ahead were 
 
 ### The Middle (Act II)
 
