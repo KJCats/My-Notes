@@ -16,7 +16,7 @@ Tags: [[writing]], [[learning]]
 **Story Time**
 
 ---
-"Ahead were 
+"Ahead were a pack of riders, with unknown banners, but still... everyone knew who they belong to. Only one Force woul
 
 ### The Middle (Act II)
 
