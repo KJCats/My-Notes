@@ -1,0 +1,11 @@
+SOCRATES: At this point I will show you something about the nature of education and ignorance. Picture the following in your mind. Imagine human beings living in an underground cave-like residence. Its entrance opens up to the light and reaches all along the cave. They have been there since their childhood, their ankles and necks chained, unable to move or turn their heads, forced to look ahead. The light from a fire blazing at a distance comes from above and behind them. Between the fire and the prisoners there is a raised walkway. Imagine also a low wall built along the way, similar to the screen that divides puppeteers from the audience and allows them to show puppets over it. 
+
+GLAUCON: I picture the scene. 
+
+SOCRATES: Now imagine that people walk behind the wall and carry various artifacts that extend above the wall. These artifacts include carvings of humans and other animals made of stone, wood, and other materials. Some of the people carrying these object are talking, while others are silent. 
+
+GLAUCON: You paint a strange picture and describe strange prisoners. 
+
+SOCRATES: They are like ourselves. Now do you think they see anything else except their own shadows, or the shadows of one another, which light from the fire casts on to the opposite wall of the cave? 
+
+GLAUCON: How could they see anything else if they were forced to keep their heads still for their whole life? SOCRATES: And what would they see of the objects that are being carried? Would they not see only shadows of them as well? GLAUCON: What else? SOCRATES: And if they were able to talk to one another, would they not think that the object of their conversation were the shadows they saw in front of them? GLAUCON: Absolutely. SOCRATES: And what if an echo bounced off the opposite wall of the prison? Would they not think that when one of the passers-by spoke the voice came from the passing shadow? GLAUCON: Definitely. SOCRATES: Such prisoners would think that the truth is nothing but the shadows cast by the artifacts. GLAUCON: Most certainly.
