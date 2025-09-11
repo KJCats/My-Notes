@@ -23,7 +23,8 @@ If you can or want, write into the Book. If not, write down on a sepperate mediu
 
 - Read actively!
 - Less is more!
-- Highlight what is important. "If everything is highligh"
+- Highlight only what is important. "If everything is highlighted, nothing is"
+- Write down why it is highlighted. 
 
 # References
 
