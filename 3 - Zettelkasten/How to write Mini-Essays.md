@@ -31,7 +31,11 @@ Tags:
 	- Maybe make a Statement: "... is ... !"
 	- Start with something Emotional
 	- Or a Question: "Is ... really ... ?"
-	- Start in the middle
+	- Start in the middle of the Topic
+
+#### Body
+
+
 # References
 
 [How to Write a Mini-Essay](https://www.youtube.com/watch?v=eCaOSNxwCsw)
