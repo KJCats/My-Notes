@@ -16,7 +16,11 @@ Tags:
 
 ## The General Structure
 
-- 
+### 3-Part Structure
+
+- Factory Default Note
+	- Inro
+	- 
 
 # References
 
