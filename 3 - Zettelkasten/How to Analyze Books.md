@@ -42,6 +42,9 @@ Its not directly fun, but its worth it.
 - Only work with your Notes and Quotes
 - Write short passages to your notes
 
+## Come back to your Analysis
+
+- Read through it again to find intr
 # References
 
 [# How to Analyze Books like a Renaissance Scholar](https://www.youtube.com/watch?v=r6RdMSYSQDE)
