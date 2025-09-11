@@ -3,6 +3,12 @@ Tags: [[writing]], [[learning]]
 
 # How to write better Stories
 
-## 
+## Characters
+
+
+
+## Setting
+
+## Plot
 
 # References
