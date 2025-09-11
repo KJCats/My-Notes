@@ -11,7 +11,7 @@ Tags:
 
 ### Inspect the Book
 
-- What type of Book is it?
+- What type of Book is it? (Novel, Biography, ...)
 - 
 
 # References
