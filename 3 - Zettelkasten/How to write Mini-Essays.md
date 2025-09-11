@@ -3,6 +3,7 @@ Tags:
 
 # How to write Mini-Essays
 
+This Note is heavily inspired by 
 
 ## They need some rules:
 
@@ -42,9 +43,9 @@ Tags:
 
 #### Conclusion
 
-- Condense the most important details and  
+- Condense the most important details into a final Message 
 
 # References
 
-[How to Write a Mini-Essay](https://www.youtube.com/watch?v=eCaOSNxwCsw)
-[[Mini Essays-The Ultimate Learning Tool]]
+1. [How to Write a Mini-Essay](https://www.youtube.com/watch?v=eCaOSNxwCsw)
+2. [[Mini Essays-The Ultimate Learning Tool]]
