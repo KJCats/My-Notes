@@ -19,7 +19,9 @@ Read a few pages and answer:
 
 ## Note Taking
 
-If you can or want, write into the book
+If you can or want, write into the Book. If not, write down on a sepperate medium.
+
+- Read actively
 
 # References
 
