@@ -47,8 +47,8 @@ This Note is heavily inspired by a video of Odysseas[^1]. It roughly summarizes 
 
 ## Story Note
 
-- "The Story is the vehicle of the Message" [18:33][^1] 
-- 
+- "The Story is the vehicle of the Message"[^1]  
+- What is the Point to tell
 
 # References
 
