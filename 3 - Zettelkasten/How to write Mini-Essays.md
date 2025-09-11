@@ -25,6 +25,9 @@ Tags:
 - Using it when you are stuck.
 - Is the basic for most forms of writing.
 
+#### Intro 
+- Make the Premise clear for readers or yourself.
+- 
 
 # References
 
