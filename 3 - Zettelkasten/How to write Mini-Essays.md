@@ -45,6 +45,8 @@ This Note is heavily inspired by a video of Odysseas[^1]. It roughly summarizes 
 
 - Condense the most important details into a final Message 
 
+## 
+
 # References
 
 1. [How to Write a Mini-Essay](https://www.youtube.com/watch?v=eCaOSNxwCsw)
