@@ -26,8 +26,9 @@ Actively try to find Connections to other Information or Topics.
 2. 
 	- Create Analogies
 
-## 5. 
+## 5. Learn to stay in flow
 
+Continue here: 
 ## 6. 
 
 ## 7.
