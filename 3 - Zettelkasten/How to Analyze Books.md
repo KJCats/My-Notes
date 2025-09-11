@@ -1,5 +1,5 @@
 Date: 11-09-2025
-Tags: [[writing]], [[]] 
+Tags: [[writing]], [[learning]], [[literature]] 
 
 # How to Analyze Books
 
