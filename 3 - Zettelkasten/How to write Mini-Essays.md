@@ -45,7 +45,9 @@ This Note is heavily inspired by a video of Odysseas[^1]. It roughly summarizes 
 
 - Condense the most important details into a final Message 
 
-## 
+## Story Note
+
+- "The Story is the vehicle of the Message" [18:]
 
 # References
 
