@@ -28,8 +28,9 @@ Tags:
 #### Intro 
 - Make the Premise clear for readers or yourself. Clearly tell what its about
 - Try to make it struck curiosity
-	- Maybe make a Statement: "Is ... really ... ?"
-	- Start with something Emotio
+	- Maybe make a Statement: "... is ... ?"
+	- Start with something Emotional
+	- 
 
 # References
 
