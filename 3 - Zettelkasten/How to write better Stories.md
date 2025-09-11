@@ -9,8 +9,10 @@ Tags: [[writing]], [[learning]]
 
 ## Plot
 
-### Beginning
+### Beginning (Act I)
 
-### Rising 
+### The Middle (Act II)
+
+### The End 
 
 # References
