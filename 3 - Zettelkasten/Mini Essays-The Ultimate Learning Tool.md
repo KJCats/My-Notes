@@ -10,4 +10,4 @@ Video about how usefull Mini Essays are. Will work on it soon.
 
 [Mini Essays: The Ultimate Learning Tool](https://www.youtube.com/watch?v=N4YjXJVzoZY)
 
-[[]]
+[[How to write Mini-Essays]]
