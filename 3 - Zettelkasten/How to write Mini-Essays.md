@@ -21,4 +21,4 @@ Tags:
 # References
 
 [How to Write a Mini-Essay](https://www.youtube.com/watch?v=eCaOSNxwCsw)
-[[Mini Essays: The Ultimate Learning Tool]]
+[[Mini Essays\: The Ultimate Learning Tool]]
