@@ -20,6 +20,10 @@ The way we have learned to study, isn't the best way to learn.
 If we can link Information with Connections we already made, our Brain sees it as Relevant.
 Actively try to find Connections to other Information or Topics.
 
+- Why do I need to know this?
+- Why is it being teached?
+- 
+
 ## 5. 
 
 ## 6. 
