@@ -42,7 +42,7 @@ Tags:
 
 #### Conclusion
 
-- 
+- Condense the most important details and  
 
 # References
 
