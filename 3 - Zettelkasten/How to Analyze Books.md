@@ -11,8 +11,11 @@ Tags:
 
 ### Inspect the Book
 
+Read a few pages and answer:
+
 - What type of Book is it? (Novel, Biography, ...)
-- 
+- What is the Book about? (History, Politics, ...)
+- Is it interesting or worth your attention?
 
 # References
 
