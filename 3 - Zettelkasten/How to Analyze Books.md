@@ -6,7 +6,8 @@ Tags:
 ## Book Selection
 
 - Read what you want!
-- Don't read books only because others say you have to
+- Don't read books only because others say you have to.
+- 
 
 # References
 
