@@ -19,8 +19,12 @@ Tags:
 ### 3-Part Structure
 
 - Factory Default Note
-	- Inro
-	- 
+	- Intro
+	- Body
+	- Conclusion
+- Using it when you are stuck.
+- Is the basic for most forms of writing.
+
 
 # References
 
