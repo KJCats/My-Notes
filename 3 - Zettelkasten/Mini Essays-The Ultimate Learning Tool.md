@@ -1,5 +1,5 @@
 Date: 11-09-2025
-Tags: 
+Tags: [[writing]], [[learning]] 
 
 # Mini Essays-The Ultimate Learning Tool
 

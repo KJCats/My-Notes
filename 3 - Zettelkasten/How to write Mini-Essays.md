@@ -58,5 +58,4 @@ This Note is heavily inspired by a video of Odysseas[^1]. It roughly summarizes 
 
 1. [How to Write a Mini-Essay](https://www.youtube.com/watch?v=eCaOSNxwCsw)
 2. [18:33](https://youtu.be/eCaOSNxwCsw?si=3AXZiPT_AeIKRy4t&t=1111)
-3. [[Mini Essays-The Ultimate Learning Tool]]
-[^1]: 
+3. [[Mini Essays-The Ultimate Learning Tool]][^1]: 
