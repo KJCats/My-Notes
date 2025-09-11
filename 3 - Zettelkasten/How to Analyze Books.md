@@ -3,7 +3,10 @@ Tags:
 
 # How to Analyze Books
 
+## Book Selection
 
+- Read what you want!
+- Don't read books only because others say you have to
 
 # References
 
