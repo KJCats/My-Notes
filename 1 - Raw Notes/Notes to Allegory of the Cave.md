@@ -1,4 +1,4 @@
-[[Socrates]] [[Claucon]]
+date: 
 
 We have Socrates and Claucon talking to each other. First glance, it's clear that Socrates has much more dialog than Claucon. 
 
@@ -25,3 +25,5 @@ On the wall there is a walkway
 # References
 [[Plato-The Allegory of the Cave]]
 [[Plato-The Allegory of the Cave.pdf]]
+[[Socrates]]
+[[Claucon]]
