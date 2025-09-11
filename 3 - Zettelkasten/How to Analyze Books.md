@@ -25,7 +25,8 @@ If you can or want, write into the Book. If not, write down on a seperate medium
 - Less is more!
 - Highlight only what is important. "If everything is highlighted, nothing is"
 - Write down why it is highlighted. 
-
+- Write down what you think.
+- Try out what works best!!!
 
 # References
 
