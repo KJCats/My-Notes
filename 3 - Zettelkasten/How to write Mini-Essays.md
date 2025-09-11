@@ -33,12 +33,11 @@ Tags:
 	- Start with something Emotional
 	- Or a Question: "Is ... really ... ?"
 	- Start in the middle of the Topic
+- Add Context if needed
 
 #### Body
 
-- Write down about the topic
-- Answer the starting Statement/Question
-- \: 
+- Only Answer the 
 
 # References
 
