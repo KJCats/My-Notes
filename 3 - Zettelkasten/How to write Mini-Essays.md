@@ -3,7 +3,7 @@ Tags:
 
 # How to write Mini-Essays
 
-This Note is heavily inspired by a video of Odysseas[^1] 
+This Note is heavily inspired by a video of Odysseas[^1]. It roughly summarie 
 
 ## They need some rules:
 
