@@ -5,10 +5,12 @@ Tags: [[writing]], [[learning]]
 
 ## Characters
 
-
-
 ## Setting
 
 ## Plot
+
+### Beginning
+
+### Rising 
 
 # References
