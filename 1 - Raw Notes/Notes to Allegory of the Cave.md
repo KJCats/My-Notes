@@ -1,0 +1,1 @@
+We have Socrates and Claucon talking to each other. First glance, it's clear that Socrates hat much more dialog than 
