@@ -6,5 +6,6 @@ We have Socrates and Claucon talking to each other. First glance, it's clear tha
 
 ## Scenario
 
-Humans living in a cage like residence
+
+"Imagine human beings living in an underground cave-like residence."
 
