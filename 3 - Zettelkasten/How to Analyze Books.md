@@ -7,7 +7,12 @@ Tags:
 
 - Read what you want!
 - Don't read books only because others say you have to.
-- Find recomendations in your interested 
+- Find recommendation's in your interested Topics
+
+### Inspect the Book
+
+- What type of Book is it?
+- 
 
 # References
 
