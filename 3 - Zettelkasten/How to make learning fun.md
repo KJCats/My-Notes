@@ -17,7 +17,7 @@ The way we have learned to study, isn't the best way to learn.
 
 ## 4. Relevance is a Skill
 
-
+If we can link Information with Connections we already made.
 
 # References
 [If You Don’t Enjoy Learning, You’re Doing It Wrong](https://www.youtube.com/watch?v=6U8zNlqCa6M)
