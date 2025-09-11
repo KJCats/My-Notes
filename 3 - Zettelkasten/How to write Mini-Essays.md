@@ -1,4 +1,10 @@
-They need some rules:
+Date: 11-09-2025
+Tags: 
+
+# How to write Mini-Essays
+
+
+## They need some rules:
 
 - Only 1 idea per mini-essay
 - Link with References at the end, not in the article
@@ -8,3 +14,8 @@ They need some rules:
 - You are allowed to cite, write down right there where the cite came from
 - Write down Sources.
 
+## The General Structure
+
+- 
+
+# References
