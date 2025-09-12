@@ -31,7 +31,7 @@ We only see the Truth in what we believe is real, based on our 5 senses
 
 He proceeds to explain how if the prisoners would be released, and pointed out for their wrong assumptions , that they would still believe in these wrong truths. -> Its shows, that we are often bound to our ideologies and believes, how we can't easily except big changes in our world view.
 
-
+He explains that if the prisoners would be forced to stare into the light, they much rather would like to look away, back to the shadows, believeing that these are much more clearer. Its a clear m
 
 
 # References
