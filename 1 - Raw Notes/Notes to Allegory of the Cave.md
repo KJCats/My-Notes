@@ -20,11 +20,11 @@ _Line 3-9_
 Humans chained in a room, forced to look at exactly one spot. They were there since their childhood. There is a wall behind(?) the Prisoners
 On the wall there is a walkway
 
-Further, he describes how the people on the wall carry "strange artifacts, that extend above the wall". These include materials like wood or stone, shaped like humans or animals. These artifacts would create a shadow, visible for the prisoners, while they dont see any sign that the 
+Further, he describes how the people on the wall carry "strange artifacts, that extend above the wall". These include materials like wood or stone, shaped like humans or animals. These artifacts would create a shadow, visible for the prisoners, while they dont' see any sign that the artifacts are being carried or not alive.
 
 He goes on to talk about how if the prisoners were able to talk, the topic of speech would be the shadows of the artifacts. -> We only talk about things we see?
 
-
+Socrates then describes, that if one of the persons carrying an artifact were to speak, the prisoners would th
 
 
 
