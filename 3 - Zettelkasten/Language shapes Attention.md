@@ -7,5 +7,5 @@ When you don't have a word for something specific, you don't really give it the 
 
 We also have to think more about sentence structure or the exact meaning of words, something that becomes natural when we stop translating our thoughts, but start thinking in the other language. Although we might not be as eloquent as in our native tongue, we are more active in our pronunciation and choice of words.
 
-Learning another language can open us up for new ideas and even reveal flaws or missing words in our own language. It shows cultural differences and simmilaritie
+Learning another language can open us up for new ideas and even reveal flaws or missing words in our own language. It shows cultural differences and similarities, it makes us understand how people in another country differ in their way of thinking.
 # References
