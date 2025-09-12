@@ -39,6 +39,8 @@ He proceeds to describe how the prisoners would  only slowly be able to see peop
 
 Socrates goes on to say how the prisoners would be able to look at the sun at the end, and figure out that it "governs all that exists in the visible world."
 
+
+
 # References
 [[Plato-The Allegory of the Cave]]
 [[Plato-The Allegory of the Cave.pdf]]
