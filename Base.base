@@ -13,7 +13,8 @@ views:
     name: Table
     order:
       - file.name
-      - formula.Untitled
+      - file.size
+      - file.mtime
     sort:
       - property: file.mtime
         direction: DESC
@@ -29,3 +30,8 @@ views:
     image: file.file
     imageFit: ""
     cardSize: 100
+  - type: table
+    name: View 2
+    sort:
+      - property: file.name
+        direction: ASC
