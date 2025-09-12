@@ -22,6 +22,9 @@ views:
         direction: DESC
   - type: cards
     name: View
+    filters:
+      and:
+        - "!file.links.isEmpty()"
     order:
       - file.name
     sort:
