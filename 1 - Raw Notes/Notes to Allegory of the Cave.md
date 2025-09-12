@@ -33,7 +33,7 @@ He proceeds to explain how if the prisoners would be released, and pointed out f
 
 He explains that if the prisoners would be forced to stare into the light, they much rather would like to look away, back to the shadows, believing that these are much more clearer. Its a clear metaphor how we look back at our old believes more than we look forward to new ideas that might hurt at first. 
 
-If one of these prisoners is getting dragged out to the sun, it would hurt their eyes. They wouldn't be 
+If one of these prisoners is getting dragged out to the sun, it would hurt their eyes. They wouldn't be able to see the Truth instantly
 
 
 # References
