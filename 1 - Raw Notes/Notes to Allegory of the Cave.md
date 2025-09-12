@@ -20,7 +20,7 @@ _Line 3-9_
 Humans chained in a room, forced to look at exactly one spot. They were there since their childhood. There is a wall behind(?) the Prisoners
 On the wall there is a walkway
 
-Further, he describes how the people on the wall carry "strange artifacts, that extend above the wall". These include materials like wood or stone, shaped 
+Further, he describes how the people on the wall carry "strange artifacts, that extend above the wall". These include materials like wood or stone, shaped like humans or animals. These artifacts would create a shadow, visible for the prisoners. 
 
 
 
