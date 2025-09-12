@@ -29,7 +29,9 @@ Socrates then describes, that if one of the persons carrying an artifact were to
 "Such prisoners would think that the truth is nothing but the shadows cast by the artifacts."
 We only see the Truth in what we believe is real, based on our 5 senses
 
-He proceeds to explain how if the prisoners would be released, and pointed out for their wrong assumptions , that they would still believe in these wrong truths. -> Its shows, that we a 
+He proceeds to explain how if the prisoners would be released, and pointed out for their wrong assumptions , that they would still believe in these wrong truths. -> Its shows, that we are often bound to our ideologies and believes, how we can't easily except big changes in our world view.
+
+
 
 
 # References
