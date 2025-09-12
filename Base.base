@@ -28,10 +28,6 @@ views:
       - property: file.mtime
         direction: DESC
     image: file.file
-    imageFit: ""
+    imageFit: contain
     cardSize: 100
-  - type: table
-    name: View 2
-    sort:
-      - property: file.name
-        direction: ASC
+    imageAspectRatio: 0.25
