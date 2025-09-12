@@ -3,6 +3,6 @@ Tags:
 
 # Language shapes Attention
 
-When you dont have a word for something specific, you dont really give it the attention it should or could have. As an example, the German word "aufarbeiten" can be translated into wroking through or tidying something up. But these are general translations, that don't carry the same emotionale weight as the German original. A more direct translation would be to work up (auf = up, Arbeit = work). Its describes the process of going back to your past and working on accepting, or proccessig the past, in therapy or alone.
+When you don't have a word for something specific, you don't really give it the attention it should or could have. As an example, the German word "aufarbeiten" can be translated into working through or tidying something up. But these are general translations, that don't carry the same emotionale weight as the German original. A more direct translation would be to work up (auf = up, Arbeit = work). Its describes the process of going back to your past and working on accepting, or processing the past, in therapy or alone.
 
 # References
