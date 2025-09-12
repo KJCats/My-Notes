@@ -10,3 +10,11 @@ views:
         direction: DESC
       - property: file.links
         direction: ASC
+  - type: cards
+    name: View
+    sort:
+      - property: file.links
+        direction: ASC
+    image: file.file
+    imageFit: ""
+    cardSize: 100
