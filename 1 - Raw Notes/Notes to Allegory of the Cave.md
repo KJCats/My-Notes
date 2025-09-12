@@ -35,7 +35,7 @@ He explains that if the prisoners would be forced to stare into the light, they 
 
 If one of these prisoners is getting dragged out to the sun, it would hurt their eyes. They wouldn't be able to see the truth instantly.
 
-He proceeds to describe how the prisoners would  
+He proceeds to describe how the prisoners would  only slowly be able to see people through the reflection of water, then normally and finally would be able to look into the sky. But also how they still would be more comfortable to look into the night sky
 
 
 # References
