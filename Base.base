@@ -6,13 +6,18 @@ filters:
     - file.hasLink("3 - Zettelkasten/B - Tags/language")
     - file.hasLink("3 - Zettelkasten/B - Tags/literature")
     - file.hasLink("3 - Zettelkasten/B - Tags/philosophy")
+formulas:
+  Untitled: ""
 views:
   - type: table
     name: Table
     order:
       - file.name
+      - formula.Untitled
     sort:
       - property: file.mtime
+        direction: DESC
+      - property: file.size
         direction: DESC
   - type: cards
     name: View
