@@ -26,7 +26,9 @@ He goes on to talk about how if the prisoners were able to talk, the topic of sp
 
 Socrates then describes, that if one of the persons carrying an artifact were to speak, the prisoners would assume, that it was the shadows voice. 
 
-"Such prisoners would think that the truth is nothing but the shadows "
+"Such prisoners would think that the truth is nothing but the shadows cast by the artifacts."
+We only see the Truth in what we believe is real, based on our 5 senses
+
 
 
 
