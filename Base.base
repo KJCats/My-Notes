@@ -1,3 +1,8 @@
+filters:
+  or:
+    - file.hasLink("3 - Zettelkasten/B - Tags/learning")
+    - file.hasLink("3 - Zettelkasten/B - Tags/writing")
+    - file.hasLink("3 - Zettelkasten/B - Tags/language")
 views:
   - type: table
     name: Table
