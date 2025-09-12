@@ -1,5 +1,5 @@
 Date: 12.09.2025
-Tags: [[learning]]
+Tags: [[learning]], [[language]]
 
 # Language shapes Attention
 
