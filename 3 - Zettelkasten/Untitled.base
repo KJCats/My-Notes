@@ -3,4 +3,5 @@ views:
     name: Table
     order:
       - file.name
-      - file.links
+      - file.size
+      - file.backlinks
