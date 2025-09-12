@@ -3,13 +3,7 @@ views:
     name: Table
     order:
       - file.name
-      - file.size
-      - file.backlinks
-    sort:
-      - property: file.mtime
-        direction: DESC
-      - property: file.links
-        direction: ASC
+    sort: []
   - type: cards
     name: View
     order:
