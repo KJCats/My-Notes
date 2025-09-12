@@ -29,7 +29,7 @@ Socrates then describes, that if one of the persons carrying an artifact were to
 "Such prisoners would think that the truth is nothing but the shadows cast by the artifacts."
 We only see the Truth in what we believe is real, based on our 5 senses
 
-
+He proceeds to explain how
 
 
 # References
