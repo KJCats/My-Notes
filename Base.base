@@ -12,9 +12,11 @@ views:
         direction: ASC
   - type: cards
     name: View
+    order:
+      - file.name
     sort:
-      - property: file.links
-        direction: ASC
+      - property: file.mtime
+        direction: DESC
     image: file.file
     imageFit: ""
     cardSize: 100
