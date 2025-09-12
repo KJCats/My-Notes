@@ -4,12 +4,16 @@ filters:
     - file.hasLink("3 - Zettelkasten/B - Tags/writing")
     - file.hasLink("3 - Zettelkasten/B - Tags/people")
     - file.hasLink("3 - Zettelkasten/B - Tags/language")
+    - file.hasLink("3 - Zettelkasten/B - Tags/literature")
+    - file.hasLink("3 - Zettelkasten/B - Tags/philosophy")
 views:
   - type: table
     name: Table
     order:
       - file.name
-    sort: []
+    sort:
+      - property: file.mtime
+        direction: DESC
   - type: cards
     name: View
     order:
