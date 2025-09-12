@@ -24,7 +24,9 @@ Further, he describes how the people on the wall carry "strange artifacts, that 
 
 He goes on to talk about how if the prisoners were able to talk, the topic of speech would be the shadows of the artifacts. -> We only talk about things we see?
 
-Socrates then describes, that if one of the persons carrying an artifact were to speak, the prisoners would th
+Socrates then describes, that if one of the persons carrying an artifact were to speak, the prisoners would assume, that it was the shadows voice. 
+
+"Such prisoners would think that the truth is nothing but the shadows "
 
 
 
