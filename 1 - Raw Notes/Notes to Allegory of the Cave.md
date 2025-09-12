@@ -37,6 +37,7 @@ If one of these prisoners is getting dragged out to the sun, it would hurt their
 
 He proceeds to describe how the prisoners would  only slowly be able to see people through the reflection of water, then normally and finally would be able to look into the sky. But also how they still would be more comfortable to look into the night sky, to only have the shallow, cold light of the moon and the stars. 
 
+Socrates goes on to say how the prisoners would be albe to look at the sun at the end, and figure out that it is responcible for the seas
 
 # References
 [[Plato-The Allegory of the Cave]]
