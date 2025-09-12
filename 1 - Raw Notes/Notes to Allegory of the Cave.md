@@ -22,6 +22,8 @@ On the wall there is a walkway
 
 Further, he describes how the people on the wall carry "strange artifacts, that extend above the wall". These include materials like wood or stone, shaped like humans or animals. These artifacts would create a shadow, visible for the prisoners. 
 
+He goes on to talk about how if the prisoners were able to talk, the topic of speech would be the shadows of the artifacts. 
+
 
 
 # References
