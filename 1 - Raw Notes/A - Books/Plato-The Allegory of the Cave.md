@@ -65,6 +65,7 @@ GLAUCON: Clearly, they will come to such conclusions after having made those obs
 
 SOCRATES: What do you think, then? When they recall where they used to live, and the backward wisdom of that place, and the fellow prisoners they once had, would they not think that this change is fortunate for them, and then would they not pity those who stayed behind?
 
+---
 
 
 GLAUCON: No question. 
