@@ -35,7 +35,7 @@ He explains that if the prisoners would be forced to stare into the light, they 
 
 If one of these prisoners is getting dragged out to the sun, it would hurt their eyes. They wouldn't be able to see the truth instantly.
 
-He proceeds to describe how the prisoners  
+He proceeds to describe how the prisoners would  
 
 
 # References
