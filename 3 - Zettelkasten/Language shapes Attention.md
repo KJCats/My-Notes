@@ -1,5 +1,5 @@
 Date: 12.09.2025
-Tags: 
+Tags: [[learning]]
 
 # Language shapes Attention
 
@@ -9,3 +9,5 @@ We also have to think more carefully about sentence structure and the precise me
 
 Learning another language can open us up to new ideas and even reveal flaws or missing words in our own language. It shows cultural differences and similarities, and it helps us understand how people in another country think differently.
 # References
+
+[How learning German changed the way I think](https://www.youtube.com/watch?v=Bacg7T71hL8&t=402s)
