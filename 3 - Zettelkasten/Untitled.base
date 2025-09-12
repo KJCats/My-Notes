@@ -5,3 +5,6 @@ views:
       - file.name
       - file.size
       - file.backlinks
+    sort:
+      - property: file.mtime
+        direction: DESC
