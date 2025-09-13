@@ -29,7 +29,7 @@ The best way is to get constant and honest feedback from people that are likely 
 That could be a seasoned employee at your work or the smart student who only gets perfect scores. 
 You have to keep learning, to overcome the feeling of not knowing anything. Everything you learn
 opens up a minimum of two new topics you don't know anything about, but you don't have to know everything. 
-Think about your knowledge. You think you know something? Ask yourself how you came to that conclusion. 
+ Question your knowledge. You think you know something? Ask yourself how you came to that conclusion. 
 And finally, one of the most effective learning methods, teach others. If you can't teach a concept to someone else, you know you don't
 fully understand it yet. 
 # References
