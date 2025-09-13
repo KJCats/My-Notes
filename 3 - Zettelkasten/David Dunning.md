@@ -3,4 +3,6 @@ Tags: [[people]], [[psychology]]
 
 # David Dunning
 
+Known for the [[ | Dunning-Kruger Effect]]
+
 # References
