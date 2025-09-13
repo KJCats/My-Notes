@@ -1,3 +1,4 @@
+Title
 Date: {{date}}
 Course: 
 Tags:
