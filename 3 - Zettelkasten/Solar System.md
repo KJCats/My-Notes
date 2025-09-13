@@ -6,7 +6,7 @@ Tags: [[astronomy]]
 ---
 # Solar System
 
-Our Solar System contains 8 [[Planets]] and 1 [[Sun]].
+Our Solar System contains 8 [[Planets]] and 1 [[Stars]].
 
 ## Planets
 The plantes in order are:
