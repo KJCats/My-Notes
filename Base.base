@@ -31,3 +31,8 @@ views:
     imageFit: contain
     cardSize: 100
     imageAspectRatio: 0.25
+  - type: table
+    name: People
+    filters:
+      and:
+        - file.hasLink("3 - Zettelkasten/B - Tags/people")
