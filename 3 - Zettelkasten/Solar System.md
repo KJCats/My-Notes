@@ -8,6 +8,7 @@ Tags: [[astronomy]]
 
 Our Solar System contains 8 [[Planets]] and 1 [[Sun]].
 
+## Planets
 The plantes in order are:
 1. [[Mercury]]
 2. [[Venus]]
@@ -17,6 +18,10 @@ The plantes in order are:
 6. [[Saturn]]
 7. [[Uranus]]
 8. [[Neptune]]
+
+## Other Celestial Bodys
+
+### Dwarf Planets
 
 
 
