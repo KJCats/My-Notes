@@ -24,7 +24,7 @@ End:
 But how can we overcome the effect. How do we even know on which side of the spectrum we are? The best way is to get constant and honest feedback from people that are likely to be knowledge. That could be a seasoned employee at your work or the smart student who only gets perfect score. 
 You have to keep learning, to overcome the feeling of not knowing anything. Everything you learn opens up a minimum of two new topics you don't know anything about, but you don't have to know everything. 
 Think about your knowledge. You think you know something? Ask yourself how you came to that conclusion. 
-And finally, one of the most effective learning methods, teach others. If you can't teach another person to an extend where they can ask questions 
+And finally, one of the most effective learning methods, teach others. If you can't teach another person to an extend where they can ask questions to specific parts of the topic without you having to stop and look into it, you know you are knowledged in that specific topic. 
 # References
 Got the Idea from a YouTube Title named: [Elden Ring Drama and The Dunning Kruger Effect](https://www.youtube.com/watch?v=ucV6h7OxSso&pp=0gcJCckJAYcqIYzv)
 Didn't watch the Video though
