@@ -3,9 +3,6 @@ formulas:
 views:
   - type: table
     name: Table
-    filters:
-      and:
-        - any(link(file.outlinks).path = "3 - Zettelkasten/B - Tags")
     order:
       - file.name
       - file.size
