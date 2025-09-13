@@ -6,7 +6,7 @@ views:
     filters:
       and:
         - "!file.links.isEmpty()"
-        - file.links == ["empty"]
+        - '!file.links.contains("empty")'
     order:
       - file.name
       - file.size
