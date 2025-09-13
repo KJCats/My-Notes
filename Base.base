@@ -4,16 +4,16 @@ views:
   - type: table
     name: Table
     filters:
-      and:
+      or:
         - file.inFolder("3 - Zettelkasten")
-        - and:
+        - or:
             - file.hasLink("3 - Zettelkasten/B - Tags/people")
             - file.hasLink("3 - Zettelkasten/B - Tags/planet")
             - file.hasLink("3 - Zettelkasten/B - Tags/writing")
             - file.hasLink("3 - Zettelkasten/B - Tags/learning")
             - file.hasLink("3 - Zettelkasten/B - Tags/language")
             - file.hasLink("3 - Zettelkasten/B - Tags/astronomy")
-        - file.hasLink("3 - Zettelkasten/B - Tags/literature")
+        - file.hasLink("3 - Zettelkasten/B - Tags/*")
     order:
       - file.name
       - file.size
