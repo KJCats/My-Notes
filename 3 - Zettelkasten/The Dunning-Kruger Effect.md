@@ -12,7 +12,7 @@ likely to be the same skills required to be performative. This results in a stat
 skilled enough for the task and not skilled enough to recognize your mistakes.
 On the other hand, people who are highly competent tend to underestimate their abilities, since
 they assume that task which are easy for them, also must be easy for everyone else.
-The whole concept is named after *David Dunning* and *Justin Kruger*. They first documented study was
+The concept is named after *David Dunning* and *Justin Kruger*. They first documented study was
 published in 1999. They were inspired by the real-life bank robber *McArthur Wheeler*, who thought
 putting lemon juice on his face would make it invisible. 
 
@@ -25,10 +25,10 @@ or  a lifelong artist. They all think that if the task at hand is easy for them,
 everyone.    
 
 But how can we overcome the effect? How do we even know on which side of the spectrum we are?
-The best way is to get constant and honest feedback from people that are likely to be knowledge. That could be a seasoned employee at your work or the smart student who only gets 
-perfect scores. 
-You have to keep learning, to overcome the feeling of not knowing anything. Everything you learn opens up a minimum of two new topics you 
-don't know anything about, but you don't have to know everything. 
+The best way is to get constant and honest feedback from people that are likely to be knowledge.
+That could be a seasoned employee at your work or the smart student who only gets perfect scores. 
+You have to keep learning, to overcome the feeling of not knowing anything. Everything you learn
+opens up a minimum of two new topics you don't know anything about, but you don't have to know everything. 
 Think about your knowledge. You think you know something? Ask yourself how you came to that conclusion. 
 And finally, one of the most effective learning methods, teach others. If you can't teach a concept to someone else, you know you don't
 fully understand it yet. 
