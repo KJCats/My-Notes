@@ -5,8 +5,7 @@ views:
     name: Table
     filters:
       and:
-        - "!file.links.isEmpty()"
-        - '!file.links.contains("empty")'
+        - file.links.contains("empty")
     order:
       - file.name
       - file.size
@@ -36,4 +35,6 @@ views:
     name: empty
     filters:
       and:
-        - file.hasLink("3 - Zettelkasten/B - Tags/empty")
+        - file.links.contains("empty")
+  - type: table
+    name: astrology
