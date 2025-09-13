@@ -6,6 +6,6 @@ Tags: [[astronomy]]
 ---
 # Solar System
 
-Our Solar System contains 8 [[Planets]]
+Our Solar System contains 8 [[Planets]] and 1 [[Sun]]
 
 # References
