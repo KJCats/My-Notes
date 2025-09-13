@@ -28,6 +28,10 @@ The plantes in order are:
 3. [[Eris]]
 4. [[Haumea]]
 5. [[Makemake]]
-6. 
+6. [[Quaoar]]
+7. [[Sedna]]
+8. [[Orcus]]
+9. [[Gonggong]]
+10. [[Salacia]]
 
 # References
