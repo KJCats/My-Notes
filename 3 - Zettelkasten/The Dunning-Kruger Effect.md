@@ -5,7 +5,7 @@ Tags:
 
 Intro:
 
-The Dunning Kruger Effect is a cognitive bias, where people with low to no competence in a specific topic overestimate their knowledge and skills. People who are competent in specific topics
+The Dunning Kruger Effect is a cognitive bias, where people with low to no competence in a specific topic overestimate their knowledge and skills. On the other hand, People who are competent in specific topics often underestimate their knowledge or skills.
 
 Body:
 
