@@ -1,6 +1,6 @@
 filters:
   and:
-    - '!file.path.containsAny("A -", "B - ")'
+    - '!file.path.containsAny("A - Templates", "B - Tags", "A - Books", "B - Docu")'
 formulas:
   Untitled: ""
 views:
@@ -41,3 +41,6 @@ views:
         - file.links.contains("empty")
   - type: table
     name: astrology
+    order:
+      - file.name
+      - file.path
