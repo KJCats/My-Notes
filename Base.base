@@ -6,8 +6,7 @@ views:
     filters:
       or:
         - file.inFolder("3 - Zettelkasten")
-        - and:
-            - file.hasLink("3 - Zettelkasten/B - Tags/*")
+        - file.hasLink("3 - Zettelkasten/B - Tags/empty")
     order:
       - file.name
       - file.size
