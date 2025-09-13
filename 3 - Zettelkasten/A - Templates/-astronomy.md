@@ -1,7 +1,7 @@
 Title: {{Title}}
 Date: {{date}}
 Time: {{time}}
-Tags: [[astronomy]], [[em]]
+Tags: [[astronomy]], [[empty]]
 
 ---
 # {{Title}}
