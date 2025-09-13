@@ -17,7 +17,7 @@ The whole concept is named after *David Dunning* and *Justin Kruger*. They first
 
 End:
 
-The effect can be seen all over the world. Be it the new employee with limited experience, 
+The effect can be seen all over the world. Be it the new employee with limited experience, people on social media or an amateur athlete. A
 # References
 Got the Idea from a YouTube Title named: [Elden Ring Drama and The Dunning Kruger Effect](https://www.youtube.com/watch?v=ucV6h7OxSso&pp=0gcJCckJAYcqIYzv)
 Didn't watch the Video though
