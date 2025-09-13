@@ -4,9 +4,8 @@ views:
   - type: table
     name: Table
     filters:
-      or:
-        - file.inFolder("3 - Zettelkasten")
-        - file.hasLink("3 - Zettelkasten/B - Tags/empty")
+      and:
+        - file.hasLink("3 - Zettelkasten/B - Tags/*")
     order:
       - file.name
       - file.size
