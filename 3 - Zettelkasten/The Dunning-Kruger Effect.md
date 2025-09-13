@@ -40,3 +40,4 @@ The McArthur Wheeler robbery.
 [Lemon Juice didn't work. Robber Jailed](https://web.archive.org/web/20221016020645/https://www.newspapers.com/clip/111378933/lemon-juice-didnt-work-robber-jailed/)
 
 [[David Dunning]]
+[[Justin Kruger]]
