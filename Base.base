@@ -43,9 +43,10 @@ views:
     name: astrology
     order:
       - file.name
-      - file.path
+      - file.size
+      - file.links
     sort:
       - property: file.mtime
         direction: DESC
       - property: file.size
-        direction: ASC
+        direction: DESC
