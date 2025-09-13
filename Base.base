@@ -3,6 +3,10 @@ filters:
     - file.path.contains("Zettelkasten")
 formulas:
   Untitled: ""
+  crea: file.ctime
+properties:
+  formula.crea:
+    displayName: created Time
 views:
   - type: table
     name: Table
@@ -45,7 +49,10 @@ views:
       - file.name
       - file.size
       - file.links
+      - formula.crea
     sort:
+      - property: formula.crea
+        direction: ASC
       - property: file.mtime
         direction: DESC
       - property: file.size
