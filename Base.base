@@ -1,16 +1,13 @@
-filters:
-  or:
-    - file.hasLink("3 - Zettelkasten/B - Tags/learning")
-    - file.hasLink("3 - Zettelkasten/B - Tags/writing")
-    - file.hasLink("3 - Zettelkasten/B - Tags/people")
-    - file.hasLink("3 - Zettelkasten/B - Tags/language")
-    - file.hasLink("3 - Zettelkasten/B - Tags/literature")
-    - file.hasLink("3 - Zettelkasten/B - Tags/philosophy")
 formulas:
   Untitled: ""
 views:
   - type: table
     name: Table
+    filters:
+      and:
+        - file.inFolder("3 - Zettelkasten")
+        - and:
+            - file.hasLink("3 - Zettelkasten/B - Tags/people")
     order:
       - file.name
       - file.size
@@ -36,3 +33,8 @@ views:
     filters:
       and:
         - file.hasLink("3 - Zettelkasten/B - Tags/people")
+  - type: table
+    name: empty
+    filters:
+      and:
+        - file.hasLink("3 - Zettelkasten/B - Tags/empty")
