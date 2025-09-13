@@ -9,8 +9,8 @@ in specific topics often underestimate their knowledge or skills.
 
 This phenomenon occurs, because often the skills required to accurately evaluate performance, are
 likely to be the same skills required to be performative. This results in a state where you are not
-skilled enough for the task and not skilled enough to catch your mistakes.
-On the opposite side, people who are highly competent tend to underestimate their abilities, since
+skilled enough for the task and not skilled enough to recognize your mistakes.
+On the other hand, people who are highly competent tend to underestimate their abilities, since
 they assume that task which are easy for them, also must be easy for everyone else.
 The whole concept is named after *David Dunning* and *Justin Kruger*. They first documented study was
 published in 1999. They were inspired by the real-life bank robber *McArthur Wheeler*, who thought
