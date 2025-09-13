@@ -13,6 +13,7 @@ views:
             - file.hasLink("3 - Zettelkasten/B - Tags/learning")
             - file.hasLink("3 - Zettelkasten/B - Tags/language")
             - file.hasLink("3 - Zettelkasten/B - Tags/astronomy")
+        - file.hasLink("3 - Zettelkasten/B - Tags/literature")
     order:
       - file.name
       - file.size
