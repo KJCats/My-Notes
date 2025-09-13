@@ -21,7 +21,7 @@ It can also be seen on the other side of the spectrum. A top performing student,
 
 End:
 
-But how can we over
+But how can we overcome the effect. How do we even know on which side of the spectrum we are? The best way is to get constant 
 # References
 Got the Idea from a YouTube Title named: [Elden Ring Drama and The Dunning Kruger Effect](https://www.youtube.com/watch?v=ucV6h7OxSso&pp=0gcJCckJAYcqIYzv)
 Didn't watch the Video though
