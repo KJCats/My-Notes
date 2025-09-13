@@ -23,6 +23,11 @@ The plantes in order are:
 
 ### Dwarf Planets
 
-
+1. [[Pluto]]
+2. [[Ceres]]
+3. [[Eris]]
+4. [[Haumea]]
+5. [[Makemake]]
+6. 
 
 # References
