@@ -8,6 +8,11 @@ views:
         - file.inFolder("3 - Zettelkasten")
         - and:
             - file.hasLink("3 - Zettelkasten/B - Tags/people")
+            - file.hasLink("3 - Zettelkasten/B - Tags/planet")
+            - file.hasLink("3 - Zettelkasten/B - Tags/writing")
+            - file.hasLink("3 - Zettelkasten/B - Tags/learning")
+            - file.hasLink("3 - Zettelkasten/B - Tags/language")
+            - file.hasLink("3 - Zettelkasten/B - Tags/astronomy")
     order:
       - file.name
       - file.size
