@@ -9,7 +9,7 @@ The Dunning Kruger Effect is a cognitive bias, where people with low to no compe
 
 Body:
 
-
+This phenomenon accurs, because often the skills required to accurately evaluate 
 
 End:
 
