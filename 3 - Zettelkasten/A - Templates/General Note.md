@@ -1,6 +1,9 @@
+# {{Title}}
+---
 Date: {{date}}
 Tags: 
 
-# {{Title}}
+---
+
 
 # References
