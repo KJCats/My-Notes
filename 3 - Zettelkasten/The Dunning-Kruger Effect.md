@@ -3,5 +3,8 @@ Tags:
 
 # The Dunning-Kruger Effect
 
+Intro
+
 # References
-Got the Idea from a YouTube Title named: [Elden Ring Drama and The Dunning Kruger Effect]
+Got the Idea from a YouTube Title named: [Elden Ring Drama and The Dunning Kruger Effect](https://www.youtube.com/watch?v=ucV6h7OxSso&pp=0gcJCckJAYcqIYzv)
+Didn't watch the Video though
