@@ -1,7 +1,7 @@
 Title: {{Title}}
 Date: {{date}}
 Time: {{time}}
-Tags: [[astronomy]], [[empty]]
+Tags: [[astronomy]], [[dwarf-planet]], [[empty]]
 
 ---
 # {{Title}}
