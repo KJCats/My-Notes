@@ -16,7 +16,7 @@ The concept is named after *David Dunning* and *Justin Kruger*. They first docum
 published in 1999. They were inspired by the real-life bank robber *McArthur Wheeler*, who thought
 putting lemon juice on his face would make it invisible. 
 
-The effect can be seen all over the world. Be it the new employee with limited experience, people on
+The effect can be seen all over the world. The new employee with limited experience, people on
 social media or an amateur athlete. All of these are at a point where they think they have the skills
 and knowledge required to outperform everyone else, while only being at the beginning of the
 learning curve. 
