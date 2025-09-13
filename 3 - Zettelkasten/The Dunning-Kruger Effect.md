@@ -15,11 +15,13 @@ On the opposite side, people who are highly competent tend to underestimate thei
 
 The whole concept is named after *David Dunning* and *Justin Kruger*. They first documented study was published in 1999. They were inspired by the real-life bank robber *McArthur Wheeler*, who thought putting lemon juice on his face would make it invisible. 
 
-End:
-
 The effect can be seen all over the world. Be it the new employee with limited experience, people on social media or an amateur athlete. All of these are at a point where they think they have the skills and knowledge required to outperform everyone else, while only being at the beginning of the learning curve. 
 
-It can also be seen on the other side of the spectrum. A top performing student, a talented engineer or  a life long artist. They all think the a 
+It can also be seen on the other side of the spectrum. A top performing student, a talented engineer or  a life long artist. They all think that if the task at hand is easy for them, it has to be easy for everyone.    
+
+End:
+
+But how can we over
 # References
 Got the Idea from a YouTube Title named: [Elden Ring Drama and The Dunning Kruger Effect](https://www.youtube.com/watch?v=ucV6h7OxSso&pp=0gcJCckJAYcqIYzv)
 Didn't watch the Video though
