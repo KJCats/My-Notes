@@ -1,6 +1,6 @@
 filters:
   and:
-    - '!file.path.containsAny("A - Templates", "B - Tags", "A - Books", "B - Docu")'
+    - file.path.contains("Zettelkasten")
 formulas:
   Untitled: ""
 views:
@@ -44,3 +44,8 @@ views:
     order:
       - file.name
       - file.path
+    sort:
+      - property: file.mtime
+        direction: DESC
+      - property: file.size
+        direction: ASC
