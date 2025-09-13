@@ -1,7 +1,8 @@
-Title
+Title: {{title}}
 Date: {{date}}
+Time: {{time}}
 Course: 
-Tags:
+Tags: [[learning]]
 
 # Terms
 
