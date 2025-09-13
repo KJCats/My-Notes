@@ -3,7 +3,9 @@ Tags:
 
 # The Dunning-Kruger-Effect
 
-The Dunning-Kruger-Effect is a cognitive bias, where people with low to no competence in a specific topic overestimate their knowledge and skills. On the other hand, People who are competent in specific topics often underestimate their knowledge or skills.
+The Dunning-Kruger-Effect is a cognitive bias, where people with little to no competence in a
+specific topic overestimate their knowledge and skills. On the other hand, people who are competent
+in specific topics often underestimate their knowledge or skills.
 
 This phenomenon occurs, because often the skills required to accurately evaluate performance, are likely to be the same skills required to be performative. This results in a state, you are both not skilled enough for the task and not skilled enough to catch your mistakes.
 On the opposite side, people who are highly competent tend to underestimate their abilities, since they assume that task which are easy for them, also must be easy for everyone else. 
