@@ -13,7 +13,7 @@ This phenomenon occurs, because often the skills required to accurately evaluate
 
 On the opposite side, people who are highly competent tend to underestimate their abilities, since they assume that task which are easy for them, also must be easy for everyone else. 
 
-The whole concept is named after *David Dunning* and *Justin Kruger*. They first documented study was published in 1999. They were inspired by the 
+The whole concept is named after *David Dunning* and *Justin Kruger*. They first documented study was published in 1999. They were inspired by the real-life bank robber McArthur Wheeler 
 
 End:
 
