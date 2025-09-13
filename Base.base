@@ -5,7 +5,7 @@ views:
     name: Table
     filters:
       and:
-        - contains(file.path, "3 - Zettelkasten/B - Tags/")
+        - file.links.contains(file.path.endsWith("Tags/"))
     order:
       - file.name
       - file.size
