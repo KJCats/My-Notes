@@ -9,7 +9,7 @@ The Dunning Kruger Effect is a cognitive bias, where people with low to no compe
 
 Body:
 
-This phenomenon accurs, because often the skills required to accurately evaluate performance, are likely to be the same skills required to be performative. 
+This phenomenon occurs, because often the skills required to accurately evaluate performance, are likely to be the same skills required to be performative. This means, you are both not skilled enough for the task and not skilled enough to see your mis
 
 End:
 
