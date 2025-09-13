@@ -13,10 +13,11 @@ This phenomenon occurs, because often the skills required to accurately evaluate
 
 On the opposite side, people who are highly competent tend to underestimate their abilities, since they assume that task which are easy for them, also must be easy for everyone else. 
 
-The whole concept is named after *David Dunning* and *Justin Kruger*. They first documented study was published in 1999. They were inspired by the real-life bank robber McArthur Wheeler 
+The whole concept is named after *David Dunning* and *Justin Kruger*. They first documented study was published in 1999. They were inspired by the real-life bank robber *McArthur Wheeler*, who thought putting lemon juice on his face would make it invisible. 
 
 End:
 
+The effect can be seen 
 # References
 Got the Idea from a YouTube Title named: [Elden Ring Drama and The Dunning Kruger Effect](https://www.youtube.com/watch?v=ucV6h7OxSso&pp=0gcJCckJAYcqIYzv)
 Didn't watch the Video though
