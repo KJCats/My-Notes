@@ -3,6 +3,10 @@ formulas:
 views:
   - type: table
     name: Table
+    filters:
+      and:
+        - "!file.links.isEmpty()"
+        - file.links == ["empty"]
     order:
       - file.name
       - file.size
