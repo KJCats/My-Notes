@@ -3,6 +3,6 @@ Tags: [[people]], [[psychology]]
 
 # Justin Kruger
 
-Known for [[Dunning-Kruger Effect | The Dunning-Kruger Effect]]
+Known for the [[The Dunning-Kruger Effect | Dunning-Kruger Effect]]
 
 # References
