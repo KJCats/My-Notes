@@ -22,7 +22,8 @@ It can also be seen on the other side of the spectrum. A top performing student,
 End:
 
 But how can we overcome the effect. How do we even know on which side of the spectrum we are? The best way is to get constant and honest feedback from people that are likely to be knowledge. That could be a seasoned employee at your work or the smart student who only gets perfect score. 
-You have to keep learning, to overcome the feeling of not knowing anything. Everything you learn opens up a minimum of two new topics you don
+You have to keep learning, to overcome the feeling of not knowing anything. Everything you learn opens up a minimum of two new topics you don't know anything about, but you don't have to know everything. 
+Think about your knowlege. You think you know something? Ask yourself how you came to that conclusion. 
 # References
 Got the Idea from a YouTube Title named: [Elden Ring Drama and The Dunning Kruger Effect](https://www.youtube.com/watch?v=ucV6h7OxSso&pp=0gcJCckJAYcqIYzv)
 Didn't watch the Video though
