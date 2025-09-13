@@ -5,7 +5,7 @@ views:
     name: Table
     filters:
       and:
-        - file.backlinks.contains("3 - Zettelkasten/B - Tags/")
+        - contains(file.path, "3 - Zettelkasten/B - Tags/")
     order:
       - file.name
       - file.size
