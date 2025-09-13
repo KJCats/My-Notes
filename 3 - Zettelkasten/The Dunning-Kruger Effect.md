@@ -36,4 +36,7 @@ fully understand it yet.
 Got the Idea from a YouTube Title named: [Elden Ring Drama and The Dunning Kruger Effect](https://www.youtube.com/watch?v=ucV6h7OxSso&pp=0gcJCckJAYcqIYzv)
 Didn't watch the Video though
 
+The McArthur Wheeler robbery.
 [Lemon Juice didn't work. Robber Jailed](https://web.archive.org/web/20221016020645/https://www.newspapers.com/clip/111378933/lemon-juice-didnt-work-robber-jailed/)
+
+[[David Dunning]]
