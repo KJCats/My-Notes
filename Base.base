@@ -1,3 +1,6 @@
+filters:
+  and:
+    - '!file.path.containsAny("A -", "B - ")'
 formulas:
   Untitled: ""
 views:
