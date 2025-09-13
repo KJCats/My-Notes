@@ -19,7 +19,7 @@ End:
 
 The effect can be seen all over the world. Be it the new employee with limited experience, people on social media or an amateur athlete. All of these are at a point where they think they have the skills and knowledge required to outperform everyone else, while only being at the beginning of the learning curve. 
 
-It can also be seen on the other side of the spectrum. A Top-performing student 
+It can also be seen on the other side of the spectrum. A top performing student, a talented engineer or  a life long artist. They all think the a 
 # References
 Got the Idea from a YouTube Title named: [Elden Ring Drama and The Dunning Kruger Effect](https://www.youtube.com/watch?v=ucV6h7OxSso&pp=0gcJCckJAYcqIYzv)
 Didn't watch the Video though
