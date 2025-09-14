@@ -22,6 +22,6 @@ Covers:
 - I/O
 - Datenobjekte
 - Context Manager
-- 
+- Dateipositionierung
 
 # References
