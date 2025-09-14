@@ -29,6 +29,9 @@ Covers:
 Covers:
 - Iterables
 
-## []
+## [Write Code Properly!](https://www.youtube.com/watch?v=D4_s3q038I0)
+
+Covers:
+- Basic PEP 8 Standards
 
 # References
