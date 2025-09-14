@@ -27,6 +27,8 @@ Covers:
 ## [Python Tutorial: Iterators and Iterables - What Are They and How Do They Work?](https://www.youtube.com/watch?v=jTYiNjvnHZY)
 
 Covers:
-- 
+- Iterables
+
+## []
 
 # References
