@@ -11,6 +11,8 @@ Covers:
 - Datenstrukturen
 - Module & Pakete
 
-## 
+## [Learn Python OOP in under 20 Minutes](https://www.youtube.com/watch?v=rLyYb7BFgQI)
+
+
 
 # References
