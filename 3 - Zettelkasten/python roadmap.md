@@ -13,6 +13,9 @@ Covers:
 
 ## [Learn Python OOP in under 20 Minutes](https://www.youtube.com/watch?v=rLyYb7BFgQI)
 
+Covers:
+- OOP
 
+## 
 
 # References
