@@ -16,6 +16,9 @@ Covers:
 Covers:
 - OOP
 
-## 
+## [Python Tutorial: File Objects - Reading and Writing to Files](https://youtu.be/Uh2ebFW8OYM?si=pRqnLhHGOcLATVHV)
+
+Covers:
+- I/O
 
 # References
