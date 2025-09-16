@@ -7,6 +7,8 @@ Tags: [[learning]], [[literature]], [[reading]]
 # Reading topics
 
 ## Politics
+
+### Political Ideologies 
 ### Fascism 
 - What is Fascism?
 - How does it gain Power?
@@ -17,7 +19,7 @@ Tags: [[learning]], [[literature]], [[reading]]
 
 ### Political Systems
 
-
+## Relations an
 
 ## History
 
