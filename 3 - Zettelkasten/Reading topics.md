@@ -15,6 +15,10 @@ Tags: [[learning]], [[literature]], [[reading]]
 - How does it break?
 - How do you notice it?
 
+### Political Systems
+
+
+
 ## History
 
 ### Ancient
@@ -31,6 +35,8 @@ Tags: [[learning]], [[literature]], [[reading]]
 
 ### German History
 
-### Geography
+## Geography
+
+## 
 
 # References
