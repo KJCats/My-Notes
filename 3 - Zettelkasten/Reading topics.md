@@ -25,6 +25,12 @@ Tags: [[learning]], [[literature]], [[reading]]
 
 ### WWI
 
+### WWII
 
+### Cold War
+
+### German History
+
+### Geography
 
 # References
