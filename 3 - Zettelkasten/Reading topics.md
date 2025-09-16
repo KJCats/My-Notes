@@ -6,9 +6,17 @@ Tags: [[learning]], [[literature]], [[reading]]
 ---
 # Reading topics
 
-## Fascism 
+## Politics
+### Fascism 
 - What is Fascism?
 - How does it gain Power?
-- What topics are co
+- What topics are common?
+- Which believes are common?
+- How does it break?
+- How do you notice it?
+
+## History
+
+
 
 # References
