@@ -19,7 +19,8 @@ Tags: [[learning]], [[literature]], [[reading]]
 
 ### Political Systems
 
-## Relations an
+### Relations and Diplomacy
+
 
 ## History
 
@@ -37,8 +38,19 @@ Tags: [[learning]], [[literature]], [[reading]]
 
 ### German History
 
+
 ## Geography
 
-## 
+## Philosophy
+
+### Ancient Greek Philosophy (Plato, Aristotle)
+    
+- Ethics and Morality
+    
+- Political Philosophy
+    
+- Epistemology (Theory of Knowledge)
+    
+- Existentialism and Modern Philosophy
 
 # References
