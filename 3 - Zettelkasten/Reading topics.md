@@ -6,6 +6,9 @@ Tags: [[learning]], [[literature]], [[reading]]
 ---
 # Reading topics
 
-
+## Fascism 
+- What is Fascism?
+- How does it gain Power?
+- What topics are co
 
 # References
