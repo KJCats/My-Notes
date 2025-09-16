@@ -103,4 +103,5 @@
 
 ### History & Geography
 - [Sapiens: A Brief History of Humankind](https://staibabussalamsula.ac.id/wp-content/uploads/2023/11/yuval_noah_harari-sapiens_a_brief_histor.pdf)
-- [Guns, Germs, and Steel]()
+- [Guns, Germs, and Steel](https://ia800201.us.archive.org/26/items/fp_Jared_Diamond-Guns_Germs_and_Steel/Jared_Diamond-Guns_Germs_and_Steel.pdf)
+- 
