@@ -102,4 +102,5 @@
 # References
 
 ### History & Geography
-- 
+- [Sapiens: A Brief History of Humankind](https://staibabussalamsula.ac.id/wp-content/uploads/2023/11/yuval_noah_harari-sapiens_a_brief_histor.pdf)
+- [Guns, Germs, and Steel]()
