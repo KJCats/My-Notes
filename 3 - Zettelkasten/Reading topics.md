@@ -43,14 +43,14 @@ Tags: [[learning]], [[literature]], [[reading]]
 
 ## Philosophy
 
-### Ancient Greek Philosophy (Plato, Aristotle)
-    
-- Ethics and Morality
-    
-- Political Philosophy
-    
-- Epistemology (Theory of Knowledge)
-    
-- Existentialism and Modern Philosophy
+### Ancient Greek Philosophy 
+
+### Ethics and Morality
+
+### Political Philosophy
+
+### Epistemology (Theory of Knowledge)
+
+### Existentialism and Modern Philosophy
 
 # References
