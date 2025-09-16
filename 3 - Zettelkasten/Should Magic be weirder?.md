@@ -6,6 +6,7 @@ Tags:
 ---
 # Should Magic be weirder?
 
-
+When we 
 
 # References
+[Magic Systems Should Be Weirder](https://www.youtube.com/watch?v=ivnw7VkqKjY&t=114s)
