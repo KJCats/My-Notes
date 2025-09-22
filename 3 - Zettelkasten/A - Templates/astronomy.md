@@ -1,7 +1,7 @@
 Title: {{Title}}
 Date: {{date}}
 Time: {{time}}
-Tags: [[astronomy]], [[empty]]
+Tags: [[3 - Zettelkasten/B - Tags/astronomy]], [[empty]]
 
 ---
 # {{Title}}

@@ -1,7 +1,7 @@
 Title: Solar System
 Date: 13.09.2025
 Time: 13:42
-Tags: [[astronomy]] 
+Tags: [[3 - Zettelkasten/B - Tags/astronomy]] 
 
 ---
 # Solar System
