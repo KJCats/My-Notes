@@ -6,7 +6,7 @@ Tags: [[godot]], [[programming]]
 ---
 # Godot Static Body 2D
 
-Physics Body that can't be moved. If moved by code, it will simple teleport to the new position, not pushing any other objects.
+[[Godot Physics Body 2D|Physics Body 2D]] that can't be moved. If moved by code, it will simple teleport to the new position, not pushing any other objects.
 Its also not affected by gravity
 
 # References
