@@ -9,3 +9,4 @@ Tags:
 
 
 # References
+[# Charlie Kirk - The Symbolic Murder of Civil Debate](https://www.youtube.com/watch?v=bMqnSs3DsWo)
