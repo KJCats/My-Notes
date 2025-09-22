@@ -12,5 +12,7 @@ Nodes can contain any numbers of children.
 
 These Trees can be saved as [[Godot Scenes |Scenes]]
 
+Nodes:
+- [[Godot Node 2D| Node 2D]]
 # References
 [All 219 Godot Nodes Explained In 42 Minutes !](https://www.youtube.com/watch?v=tO2gthp45MA&list=WL&index=1)
