@@ -1,10 +1,10 @@
-Title: {{title}}
-Date: {{date}}
-Time: {{time}}
+Title: Godot Notes
+Date: 22.09.2025
+Time: 12:56
 Tags: [[godot]], [[programming]]
 
 ---
-# {{Title}}
+# Godot Notes
 
 
 
