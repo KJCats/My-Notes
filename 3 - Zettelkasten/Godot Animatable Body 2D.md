@@ -1,12 +1,12 @@
-Title: Godot Static Body 2D
+Title: Godot Animatable Body 2D
 Date: 22.09.2025
-Time: 13:21
+Time: 13:22
 Tags: [[godot]], [[programming]]
 
 ---
-# Godot Static Body 2D
+# Godot Animatable Body 2D
 
-Physics Body that can't be moved.
+The Animatable Body 2D 
 
 # References
 [All 219 Godot Nodes Explained In 42 Minutes !](https://www.youtube.com/watch?v=tO2gthp45MA&list=WL&index=1)
