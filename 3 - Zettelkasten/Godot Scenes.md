@@ -6,7 +6,7 @@ Tags: [[godot]], [[programming]]
 ---
 # Godot Scenes
 
-
+Tree of [[Godot Notes | Nodes]], that can be inserted in other scenes
 
 # References
 [All 219 Godot Nodes Explained In 42 Minutes !](https://www.youtube.com/watch?v=tO2gthp45MA&list=WL&index=1)
