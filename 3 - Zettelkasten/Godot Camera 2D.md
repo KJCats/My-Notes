@@ -7,6 +7,8 @@ Tags: [[godot]], [[programming]]
 # Godot Camera 2D
 
 The Camera 2D specifies the points from which your [[Godot Scenes| Scene]] is viewed.
+It has properties for rotation and position and fine tuning the camera movement.
+If put as a child of an 
 
 # References
 [All 219 Godot Nodes Explained In 42 Minutes !](https://www.youtube.com/watch?v=tO2gthp45MA&list=WL&index=1)
