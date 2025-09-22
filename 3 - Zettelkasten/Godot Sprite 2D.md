@@ -6,7 +6,7 @@ Tags: [[godot]], [[programming]]
 ---
 # Godot Sprite 2D
 
-The sprite 2D is used to render 2D Textures to the screen. The texture display can be t
+The sprite 2D is used to render 2D Textures to the screen. The texture display can be a region of an texture atlas.
 
 
 Also: [[Godot Animated Sprite 2D| Animated Sprite 2D]]
