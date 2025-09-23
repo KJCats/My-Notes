@@ -10,6 +10,6 @@ To calculate your latitude there are 2 main ways.
 
 ## At Night
 
-At night its really easy to find your latitude
+At night its really easy to find your latitude if you are on the North Pole. 
 
 # References
