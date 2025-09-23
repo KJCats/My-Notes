@@ -19,8 +19,8 @@ Now the angle to that point is your latitude.
 
 At day you need a stick that's put vertically into the ground. This is difficult on a ship, but better than nothing. 
 Get the moment where the sticks shadow is the shortest, that's the local midday.
-Now calculate this: $$Sunangle = arctan(\frac{Stick\ Lenght}{Shadow\ Lenght})$$ Calculate the Zenit angle with this formula: $$Zenitangle = 90\degree - Sunangle$$
-Now look up the Sun declination and calculate your latitude:$$Latitude = Zenitangle + Sundeclination$$
+Now calculate this: $$Sun\ Angle = arctan(\frac{Stick\ Lenght}{Shadow\ Lenght})$$ Calculate the Zenit angle with this formula: $$Zenit\ Angle = 90\degree - Sun\ Angle$$
+Now look up the Sun declination and calculate your latitude:$$Latitude = Zenit\ Angle + Sun's\ Declination$$
 
 
 # References
