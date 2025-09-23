@@ -6,7 +6,7 @@ Tags:
 ---
 # how to calculate your longitude on sea with a clock
 
-After the [Scilly naval disaster of 1707](https://en.wikipedia.org/wiki/Scilly_naval_disaster_of_1707 "Scilly naval disaster of 1707") the Brittish Partament under Queen Anne was offering £20.000 ()
+After the [Scilly naval disaster of 1707](https://en.wikipedia.org/wiki/Scilly_naval_disaster_of_1707 "Scilly naval disaster of 1707") the Brittish Partament under Queen Anne was offering £20.000 (roughly £4 million in 2023) to anyone who could solve the problem of calculati
 
 # References
 [The Carpenter Who Outsmarted Newton](https://youtube.com/shorts/MnbZLgjfLhQ?si=oSu6l4QtXl-hIml0)
