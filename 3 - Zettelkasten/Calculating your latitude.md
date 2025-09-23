@@ -6,6 +6,10 @@ Tags:
 ---
 # Calculating your latitude
 
+To calculate your latitude there are 2 main ways.
 
+## At Night
+
+At night its really easy to find your latitude
 
 # References
