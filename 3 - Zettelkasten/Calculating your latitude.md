@@ -10,7 +10,9 @@ To calculate your latitude there are 2 main ways.
 
 ## At Night
 
-At night its really easy to find your latitude if you are on the North Pole. You simple take the angle between the Polar Star and the Horizon. 
+At night its really easy to find your latitude if you are on the Northern Hemisphere. 
+You simple take the angle between the Polar Star and the Horizon. 
 
+On the southern Hemisphere you 
 
 # References
