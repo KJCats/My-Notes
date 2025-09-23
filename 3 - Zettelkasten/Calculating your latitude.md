@@ -14,6 +14,6 @@ At night its really easy to find your latitude if you are on the Northern Hemisp
 You simple take the angle between the Polar Star and the Horizon. 
 
 On the southern Hemisphere you need to find the Crux. Then, extend the long axis of the crux downwards a total of 4.5 times.
-The empty spot n the sky where you are now is knows as the 
+The empty spot n the sky where you are now is knows as the southern 
 
 # References
