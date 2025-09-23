@@ -19,7 +19,7 @@ Now the angle to that point is your longitude.
 
 ## At Day
 
-
+At day you need a stick that's put vertically into the ground. This is difficult on a  
 
 
 # References
