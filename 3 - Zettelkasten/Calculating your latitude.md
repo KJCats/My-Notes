@@ -19,7 +19,8 @@ Now the angle to that point is your longitude.
 
 ## At Day
 
-At day you need a stick that's put vertically into the ground. This is difficult on a  
+At day you need a stick that's put vertically into the ground. This is difficult on a ship, but better than nothing. 
+Get the moment where the sticks shadow is the shortest, that
 
 
 # References
