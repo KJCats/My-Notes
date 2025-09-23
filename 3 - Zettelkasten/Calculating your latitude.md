@@ -13,13 +13,13 @@ You simple take the angle between the Polar Star and the Horizon.
 
 On the southern Hemisphere you need to find the [[Crux]]. Then, extend the long axis of the crux downwards a total of 4.5 times.
 The empty spot in the sky where you are now is knows as the [[South Celestial Pole]]
-Now the angle to that point is your longitude. 
+Now the angle to that point is your latitude. 
 
 ## At Day
 
 At day you need a stick that's put vertically into the ground. This is difficult on a ship, but better than nothing. 
 Get the moment where the sticks shadow is the shortest, that's the local midday.
-Now calculate this: $$Sunangle = arctan(\frac{Sticklenght}{Shadowlenght})$$ Calculate the Zenit angle with this formula: $$Zenitangle = 90\degree - Sunangle$$
+Now calculate this: $$Sunangle = arctan(\frac{Stick\ Lenght}{Shadow\ Lenght})$$ Calculate the Zenit angle with this formula: $$Zenitangle = 90\degree - Sunangle$$
 Now look up the Sun declination and calculate your latitude:$$Latitude = Zenitangle + Sundeclination$$
 
 
