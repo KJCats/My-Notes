@@ -6,6 +6,11 @@ Tags: [[programming]], [[c++]]
 ---
 # C++ Data Types
 
+- `int`:  integer numbers
+- `double`: floating-point numbers
+- `char`: individual characters
+- `string`: a sequence of characters
+- `bool`: true/false values
 
 
 # References
