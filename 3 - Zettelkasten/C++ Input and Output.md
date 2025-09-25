@@ -6,8 +6,11 @@ Tags: [[programming]], [[c++]]
 ---
 # C++ Input and Output
 
-| stream | Purpose |
-| --- 
+| stream    | Purpose                        |
+| --------- | ------------------------------ |
+| std::cout | Printing data to the console   |
+| std::cin  | Reading data from the terminal |
+| std::cerr |                                |
 
 ```c++
 #include <iostream>
