@@ -10,6 +10,8 @@ Tags: [[programming]], [[c++]]
 #include <iostream>
 use namespace std;
 
+int addNumbers(int first_number, int second_number)
+
 int main()
 {
 	int first_number {3};
