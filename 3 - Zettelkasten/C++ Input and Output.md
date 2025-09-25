@@ -8,10 +8,10 @@ Tags: [[programming]], [[c++]]
 
 ```c++
 #include <iostream>
-use namespace std;
+using namespace std;
 
 int addNumbers(int first_number, int second_number){
-	int sum = {first_number + second_number};
+	return first_number + second_number;
 	return sum;
 }
 
