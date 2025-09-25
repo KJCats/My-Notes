@@ -8,11 +8,14 @@ Tags: [[programming]], [[c++]]
 
 ```c++
 #include <iostream>
+use namespace std;
 
 int main()
 {
-	int first_number;
-	int second_number;
+	int first_number {3};
+	int second_number {7};
+	
+	cout << "First Number: "
 }
 ```
 
