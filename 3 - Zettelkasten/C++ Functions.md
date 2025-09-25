@@ -9,8 +9,10 @@ Tags: [[programming]], [[c++]]
 ```c++
 int addNumbers(int first_number, int second_number){
 	int sum = first_number + second_number;
-	r
+	return sum;
 }
 ```
+
+Functions follow the 
 
 # References
