@@ -15,10 +15,9 @@ Tags: [[programming]], [[c++]]
 
 ```c++
 #include <iostream>
-using namespace std;
 
 int main() {
-	cout
+	std::cout
 }
 ```
 
