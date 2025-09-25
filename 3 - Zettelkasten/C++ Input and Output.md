@@ -15,7 +15,7 @@ int main()
 	int first_number {3};
 	int second_number {7};
 	
-	cout << "First Number: "
+	cout << "First Number: " << first_number << "\n";
 }
 ```
 
