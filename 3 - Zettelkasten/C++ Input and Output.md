@@ -6,12 +6,12 @@ Tags: [[programming]], [[c++]]
 ---
 # C++ Input and Output
 
-| stream    | Purpose                              |
-| --------- | ------------------------------------ |
-| std::cout | Printing data to the console         |
-| std::cin  | Reading data from the terminal       |
-| std::cerr | Printing errors to the console       |
-| std::clog | Printing log messages to the console |
+| stream    | Purpose                              | Buffered |
+| --------- | ------------------------------------ | -------- |
+| std::cout | Printing data to the console         | True     |
+| std::cin  | Reading data from the terminal       | True     |
+| std::cerr | Printing errors to the console       | False    |
+| std::clog | Printing log messages to the console | True     |
 
 ```c++
 #include <iostream>
