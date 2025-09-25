@@ -16,6 +16,11 @@ int main()
 	int second_number {7};
 	
 	cout << "First Number: " << first_number << "\n";
+	cout << "Second Number: " << second_number << "\n";
+	
+	int sum 
+	
+	return 0;
 }
 ```
 
