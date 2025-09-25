@@ -17,7 +17,9 @@ Tags: [[programming]], [[c++]]
 #include <iostream>
 
 int main() {
-	std::cout
+	std::cout << "Cout output\n";
+	
+	
 }
 ```
 
