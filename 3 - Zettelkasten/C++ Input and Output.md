@@ -6,7 +6,8 @@ Tags: [[programming]], [[c++]]
 ---
 # C++ Input and Output
 
-
+| stream | Purpose |
+| --- 
 
 ```c++
 #include <iostream>
