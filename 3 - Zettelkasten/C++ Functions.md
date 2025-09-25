@@ -28,6 +28,8 @@ int main(int argc, char **argv)
 	int sum;
 	sum = addNumbers(first_number, second_number);
 	std::cout << "The sum of " << first_number << " and " << second_number << " is equal to " << sum << "\n";
+	
+	return 0;
 }
 ```
 
