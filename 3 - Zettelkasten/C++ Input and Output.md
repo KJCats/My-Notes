@@ -17,7 +17,7 @@ Tags: [[programming]], [[c++]]
 #include <iostream>
 
 int main() {
-	std::cout << "Cout output\n";
+	std::cout << "std::cout output\n";
 	
 	int age {20};
 	std::cout << "Age: " << age << "\n";
