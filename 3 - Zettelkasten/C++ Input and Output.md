@@ -41,11 +41,13 @@ int main() {
 ```
 
 Instead of `std::cin >> first_name >> last_name;` you can also use: 
+
 ```c++
 #include <iostream>
 
 int main() {
 	std::string full_name;
+	std::cout << "Enter your First and Last name:\n";
 	std::getline(std::cin, full_name);
 }
 
