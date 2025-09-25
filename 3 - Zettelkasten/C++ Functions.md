@@ -21,7 +21,10 @@ Functions follow the syntax: return_type functionName(parameters){
 int main(int argc, char **argv)
 {
 	int first_number = 12;
-	in	
+	int second_number = 9;
+	
+	int sum;
+	sum = addNumbers(first_number, second_number);	
 }
 ```
 
