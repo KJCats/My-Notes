@@ -32,7 +32,8 @@ int main() {
 	
 	std::string first_name;
 	std::string last_name;
-	std::cout
+	std::cout << "Enter your First and Last name, seperated by spaces:\n";
+	std::cin >> first_name >> last_name
 }
 ```
 
