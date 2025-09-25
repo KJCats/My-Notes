@@ -7,6 +7,8 @@ Tags: [[programming]], [[c++]]
 # C++ Functions
 
 ```c++
+#include <iostream>
+
 int addNumbers(int first_number, int second_number){
 	int sum = first_number + second_number;
 	return sum;
@@ -24,7 +26,8 @@ int main(int argc, char **argv)
 	int second_number = 9;
 	
 	int sum;
-	sum = addNumbers(first_number, second_number);	
+	sum = addNumbers(first_number, second_number);
+	std::cout << "The sum of " << first_number
 }
 ```
 
