@@ -31,6 +31,9 @@ int main() {
 	std::cout << "Enter your name:\n";
 	std::cin >> name;
 	
+	int year;
+	std::cout << "Enter the current year:\n";
+	std::cin >> 
 }
 ```
 
