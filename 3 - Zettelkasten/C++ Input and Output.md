@@ -26,16 +26,16 @@ int main() {
 	std::cout << "Enter your birth year:\n";
 	std::cin >> birth_year;
 	
-	int year;
+	int current_year;
 	std::cout << "Enter the current year:\n";
-	std::cin >> year;
+	std::cin >> current_year;
 	
 	std::string first_name;
 	std::string last_name;
 	std::cout << "Enter your First and Last name, seperated by spaces:\n";
 	std::cin >> first_name >> last_name
 	
-	std::cout << "Hello " << first_name << " " << last_name << ". You are born in " << birth_year << "and are now " << current
+	std::cout << "Hello " << first_name << " " << last_name << ". You are born in " << birth_year << "and are now " << current_year - birth_year << "years old."
 }
 ```
 
