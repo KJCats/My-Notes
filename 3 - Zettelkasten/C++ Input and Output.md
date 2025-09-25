@@ -26,7 +26,7 @@ int main() {
 	std::clog << "std::clog output : This is a log message\n";
 	
 	
-	std::string name;
+	int birth_year;
 	
 	std::cout << "Enter your name:\n";
 	std::cin >> name;
@@ -34,6 +34,10 @@ int main() {
 	int year;
 	std::cout << "Enter the current year:\n";
 	std::cin >> year;
+	
+	
+	std::string last_name;
+	int birth_year;
 }
 ```
 
