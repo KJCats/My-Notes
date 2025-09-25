@@ -6,6 +6,11 @@ Tags: [[programming]], [[c++]]
 ---
 # C++ Functions
 
-
+```c++
+int addNumbers(int first_number, int second_number){
+	int sum = first_number + second_number;
+	r
+}
+```
 
 # References
