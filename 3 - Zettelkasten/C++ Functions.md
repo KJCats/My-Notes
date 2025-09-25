@@ -13,6 +13,8 @@ int addNumbers(int first_number, int second_number){
 }
 ```
 
-Functions follow the 
+Functions follow the syntax: return_type functionName(parameters){
+	code...
+}
 
 # References
