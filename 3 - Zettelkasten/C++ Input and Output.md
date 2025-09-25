@@ -33,10 +33,12 @@ int main() {
 	std::string first_name;
 	std::string last_name;
 	std::cout << "Enter your First and Last name, seperated by spaces:\n";
-	std::cin >> first_name >> last_name
+	std::cin >> first_name >> last_name;
 	
-	std::cout << "Hello " << first_name << " " << last_name << ". You are born in " << birth_year << "and are now " << current_year - birth_year << "years old."
+	std::cout << "Hello " << first_name << " " << last_name << ". You are born in " << birth_year << " and are now " << current_year - birth_year << " years old.";
+
 }
 ```
 
+Instead of ``
 # References
