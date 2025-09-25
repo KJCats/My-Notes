@@ -6,6 +6,8 @@ Tags:
 ---
 # C++ Best Practices
 
-Don't use `using namespace std`, since the std namespace includes too many functions to get 
+- Don't use `using namespace std`, since the std namespace includes too many functions.
+- Use datatype var_name {value}; instead of d
+
 
 # References
