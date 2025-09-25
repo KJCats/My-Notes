@@ -33,7 +33,7 @@ int main() {
 	
 	int year;
 	std::cout << "Enter the current year:\n";
-	std::cin >> 
+	std::cin >> year;
 }
 ```
 
