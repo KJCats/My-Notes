@@ -18,7 +18,7 @@ int main()
 	cout << "First Number: " << first_number << "\n";
 	cout << "Second Number: " << second_number << "\n";
 	
-	int sum 
+	int sum = first_number + second_number;
 	
 	return 0;
 }
