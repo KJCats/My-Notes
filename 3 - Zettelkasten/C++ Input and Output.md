@@ -18,26 +18,21 @@ Tags: [[programming]], [[c++]]
 
 int main() {
 	std::cout << "std::cout output\n";
-	
-	int age {20};
-	std::cout << "Age: " << age << "\n";
-	
 	std::cerr << "std::cerr output : Something went wrong\n";
 	std::clog << "std::clog output : This is a log message\n";
 	
 	
 	int birth_year;
-	
-	std::cout << "Enter your name:\n";
-	std::cin >> name;
+	std::cout << "Enter your birth year:\n";
+	std::cin >> birth_year;
 	
 	int year;
 	std::cout << "Enter the current year:\n";
 	std::cin >> year;
 	
-	
+	std::string first_name;
 	std::string last_name;
-	int birth_year;
+	std::cout
 }
 ```
 
