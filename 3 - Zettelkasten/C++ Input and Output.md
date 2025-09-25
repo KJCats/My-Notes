@@ -22,7 +22,8 @@ int main() {
 	int age {20};
 	std::cout << "Age: " << age << "\n";
 	
-	std::cerr << "std::cerr output : Something went wro"
+	std::cerr << "std::cerr output : Something went wrong\n";
+	std::clog << "std::clog output : This is a log message\n";
 }
 ```
 
