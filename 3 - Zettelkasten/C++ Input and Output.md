@@ -40,5 +40,6 @@ int main() {
 }
 ```
 
-Instead of ``
+Instead of `std::cin >> first_name >> last_name;` you can also use: 
+`std::getline(std::cin, full_name);`
 # References
