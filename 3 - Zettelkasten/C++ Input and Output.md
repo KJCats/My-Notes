@@ -10,13 +10,11 @@ Tags: [[programming]], [[c++]]
 #include <iostream>
 using namespace std;
 
-int addNumbers(int first_number, int second_number){
+int addNumbers(int first_number, int second_number) {
 	return first_number + second_number;
-	return sum;
 }
 
-int main()
-{
+int main() {
 	int first_number {3};
 	int second_number {7};
 	
