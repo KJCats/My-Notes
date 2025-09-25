@@ -19,7 +19,10 @@ Tags: [[programming]], [[c++]]
 int main() {
 	std::cout << "Cout output\n";
 	
+	int age {20};
+	std::cout << "Age: " << age << "\n";
 	
+	std::cerr << "std::cerr output : Something went wro"
 }
 ```
 
