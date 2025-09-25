@@ -28,7 +28,9 @@ int main() {
 	
 	std::string name;
 	
-	std::co
+	std::cout << "Enter your name:\n";
+	std::cin >> name;
+	
 }
 ```
 
