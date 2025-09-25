@@ -17,4 +17,12 @@ Functions follow the syntax: return_type functionName(parameters){
 	body
 }
 
+```c++
+int main(int argc, char **argv)
+{
+	int first_number = 12;
+	in	
+}
+```
+
 # References
