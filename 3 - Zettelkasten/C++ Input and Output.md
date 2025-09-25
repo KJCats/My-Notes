@@ -7,7 +7,13 @@ Tags: [[programming]], [[c++]]
 # C++ Input and Output
 
 ```c++
-@in
+#include <iostream>
+
+int main()
+{
+	int first_number;
+	int second_number;
+}
 ```
 
 # References
