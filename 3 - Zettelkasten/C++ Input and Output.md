@@ -41,5 +41,13 @@ int main() {
 ```
 
 Instead of `std::cin >> first_name >> last_name;` you can also use: 
-`std::getline(std::cin, full_name);`
+```c++
+#include <iostream>
+
+int main() {
+	std::string full_name;
+	std::getline(std::cin, full_name);
+}
+
+```
 # References
