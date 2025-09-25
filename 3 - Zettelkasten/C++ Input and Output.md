@@ -10,7 +10,10 @@ Tags: [[programming]], [[c++]]
 #include <iostream>
 use namespace std;
 
-int addNumbers(int first_number, int second_number)
+int addNumbers(int first_number, int second_number){
+	int sum = {first_number + second_number};
+	return sum;
+}
 
 int main()
 {
