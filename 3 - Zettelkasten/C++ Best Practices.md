@@ -7,7 +7,8 @@ Tags:
 # C++ Best Practices
 
 - Don't use `using namespace std`, since the std namespace includes too many functions.
-- Use datatype var_name {value}; instead of d
+- Use `datatype var_name {value};` instead of `datatype var_name = value;`
+- Use `\n` instead of `std::endl`
 
 
 # References
