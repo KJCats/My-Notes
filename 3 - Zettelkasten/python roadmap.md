@@ -1,7 +1,5 @@
 # Python Roadmap
 
-Tags: [[python]], [[programming]]
-
 ## [Learn Python in Only 30 Minutes](https://youtu.be/Ro_MScTDfU4?si=6_enYYfFHlCDwe3V)
 
 Covers:
